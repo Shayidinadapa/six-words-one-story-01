@@ -1,0 +1,1 @@
+{"description":"A complete story told in exactly six words, written to /output/entry.txt","license":"MIT","name":"six-words-one-story-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
